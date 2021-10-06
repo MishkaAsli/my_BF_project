@@ -1,0 +1,16 @@
+Business Fundamentals Project Proposal:
+
+Question/Need:
+Framing Question: Predict shoe sale price on the resale market given previous sales of similar shoes.
+Benefits: Investors can better understand which shoes are undervalued and which shoes should be purchased and resold for a potential higher price in the future. 
+
+Data Description:
+Dataset: StockX Dataset
+Individual Sample Unit: A specific shoe sold
+Features: Order Date, Brand, Sneaker Name, Sale Price, Retail Price, Release Date, Shoe Size, Buyer Region.
+Target Prediction: Sale Price
+
+Tools requirement: Pandas, matplotlib, Numpy.
+
+MVP:
+Predict sale price of shoe regardless of shoe size or color. 
