@@ -13,5 +13,8 @@ Solution Path:
 2) Predict sale price of future shoe releases and present this information to potential sellers.
 3)Constantly add to and improve on the model. 
 
+<img width="623" alt="Screen Shot 2021-10-12 at 3 12 08 PM" src="https://user-images.githubusercontent.com/77215072/137036699-df60fdc8-3ef9-4dc8-97be-2462201e3684.png">
+
+Question: If I replicated this graph in Tableau, would this be enough to add to my presentation to justify my prelimary analysis? Thank you
 
 ![image](https://user-images.githubusercontent.com/77215072/137036513-365c6ee0-5cec-4144-8e36-2a998f734f7f.png)
