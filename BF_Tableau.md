@@ -1,1 +1,1 @@
-https://public.tableau.com/authoring/BF_Project_1/Sheet2#1
+https://public.tableau.com/app/profile/mishka.asli/viz/BF_Project_1_Story/Story1?publish=yes
